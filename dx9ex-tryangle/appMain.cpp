@@ -48,7 +48,6 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE, LPSTR, int)
         EnterVirtualFullScreen(App::WindowWidth, App::WindowHeight);
     }
 
-
     win32 win;
     HWND hWnd = win.SetupWindow(App::WindowWidth, App::WindowHeight, screenMode);
     if (!hWnd)

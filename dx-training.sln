@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dx9ex-tryangle", "dx9ex-tryangle\dx9ex-tryangle.vcxproj", "{EE2D961E-5AEE-4879-B861-A45E63CEE8D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dx9ex-demo", "dx9ex-demo\dx9ex-demo.vcxproj", "{864DFFCC-E106-487C-A331-900559416CD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{EE2D961E-5AEE-4879-B861-A45E63CEE8D4}.Release|x64.Build.0 = Release|x64
 		{EE2D961E-5AEE-4879-B861-A45E63CEE8D4}.Release|x86.ActiveCfg = Release|Win32
 		{EE2D961E-5AEE-4879-B861-A45E63CEE8D4}.Release|x86.Build.0 = Release|Win32
+		{864DFFCC-E106-487C-A331-900559416CD6}.Debug|x64.ActiveCfg = Debug|x64
+		{864DFFCC-E106-487C-A331-900559416CD6}.Debug|x64.Build.0 = Debug|x64
+		{864DFFCC-E106-487C-A331-900559416CD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{864DFFCC-E106-487C-A331-900559416CD6}.Debug|x86.Build.0 = Debug|Win32
+		{864DFFCC-E106-487C-A331-900559416CD6}.Release|x64.ActiveCfg = Release|x64
+		{864DFFCC-E106-487C-A331-900559416CD6}.Release|x64.Build.0 = Release|x64
+		{864DFFCC-E106-487C-A331-900559416CD6}.Release|x86.ActiveCfg = Release|Win32
+		{864DFFCC-E106-487C-A331-900559416CD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
